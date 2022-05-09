@@ -7,7 +7,9 @@ Como contratado eu ofereci a eles uma solução digital de um banco e o primeiro
 
 Elaborei um diagrama para uma seguradora de automóveis com as seguintes entidades: Cliente, Apólice, Carro e Acidentes.
 
+## Diagrama
 
+![Diagrama](./Mario&Luigi.png)
 
 ### Cliente:
 * Renavam (Identificador)
@@ -43,3 +45,7 @@ Elaborei um diagrama para uma seguradora de automóveis com as seguintes entidad
 * Envolvidos
   * Cliente
   * Outros
+
+Diagrama disponível para download neste repositório, em formato brModelo **.brM3**.
+
+*Wagner R. Pereira 2022*
